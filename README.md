@@ -1,11 +1,11 @@
 # Quine-McCluskey
 Boolean expressions simplifier
 
-Project presented to the first discipline of algorithms and programming.
+Projeto apresentado a disciplina de algorítimos e programação. 
 
-Computer engineering
+Engenharia de Computação
 
 Professor: Henrrique Cunha 
 
-Created by: Rafael Guimarães,
+Criado por: Rafael Guimarães,
             João Messias 
