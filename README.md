@@ -1,9 +1,7 @@
 # Quine-McCluskey
 Simplificador de Expressões Boleanas
 
-Projeto apresentado a disciplina de algorítimos e programação. 
-
-**Engenharia de Computação**
+Projeto apresentado no primeiro periodo do curso de **Engenharia de Computação** disciplina de **Algorítimos e programação.**
 
 Professor: Henrrique Cunha 
 
