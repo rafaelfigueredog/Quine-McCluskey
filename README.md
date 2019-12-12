@@ -1,11 +1,20 @@
 # Quine-McCluskey
-Boolean expressions simplifier
+Simplificador de Expressões Boleanas
 
 Projeto apresentado a disciplina de algorítimos e programação. 
 
-Engenharia de Computação
+**Engenharia de Computação**
 
 Professor: Henrrique Cunha 
 
 Criado por: Rafael Guimarães,
-            João Messias 
+            João Messias
+            
+            
+Descrição esse projeto recebe como entrada os resultados de uma tabela verdade e retorna uma equação booleana simplificada usando os métodos de Quine-McCluskey e Petrick.
+
+![myprogram](https://github.com/rafaelfigueredog/Quine-McCluskey/blob/master/pictures/myprogram.png)
+
+Compare o Resutado com o site [[1]](https://www.mathematik.uni-marburg.de/~thormae/lectures/ti1/code/qmc/)
+
+![comparing](https://github.com/rafaelfigueredog/Quine-McCluskey/blob/master/pictures/comaring.png)
